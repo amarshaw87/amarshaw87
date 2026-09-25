@@ -4,9 +4,8 @@
 
 I bridge the gap between complex medical billing workflows and high-performance web applications, leveraging modern frontend technologies to automate, streamline, and scale healthcare revenue cycles.
 
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://shields.io" alt="Hire Me">
-</a>
+> 🚀 **[Status: Available for Opportunities (Connect on LinkedIn)](https://linkedin.com)**
+
 
 
 
