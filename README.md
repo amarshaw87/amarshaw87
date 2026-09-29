@@ -4,15 +4,7 @@
 
 I bridge the gap between complex medical billing workflows and high-performance web applications, leveraging modern frontend technologies to automate, streamline, and scale healthcare revenue cycles.
 
-<p align="left">
-  <img src="https://hitscounter.dev" alt="amarshaw87" />
-</p>
-
-
-
-
-
-
+![](https://hitscounter.dev/user/amarshaw87?style=flat-square&color=0e75b6)
 
 ---
 
