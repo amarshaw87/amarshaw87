@@ -5,8 +5,9 @@
 I bridge the gap between complex medical billing workflows and high-performance web applications, leveraging modern frontend technologies to automate, streamline, and scale healthcare revenue cycles.
 
 <p align="left">
-  <img src="https://seeyoufarm.com" alt="amarshaw87" />
+  <img src="https://shields.io" alt="amarshaw87" />
 </p>
+
 
 
 
