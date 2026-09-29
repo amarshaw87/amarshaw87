@@ -4,7 +4,9 @@
 
 I bridge the gap between complex medical billing workflows and high-performance web applications, leveraging modern frontend technologies to automate, streamline, and scale healthcare revenue cycles.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amarshaw87&label=Profile views&color=0e75b6&style=flat" alt="amarshaw87" /> </p>
+
+
+
 ---
 
 ### 🚀 Featured Live Application
