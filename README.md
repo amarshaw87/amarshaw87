@@ -7,7 +7,7 @@ I bridge the gap between complex medical billing workflows and high-performance 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarshaw87&label=Profile views&color=0e75b6&style=flat"
 alt="amarshaw87" /> </p>
 
-
+📫 How to reach me **amarshaw87@gmail.com**
 
 ---
 
