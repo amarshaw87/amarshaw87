@@ -61,4 +61,4 @@ alt="amarshaw87" /> </p>
 <a href="https://instagram.com/amarshaw87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amarshaw87" height="30" width="40" /></a>
 </p>
 
-📧 **Email:** amarshaw87@gmail.com
+📫 How to reach me **amarshaw87@gmail.com**
