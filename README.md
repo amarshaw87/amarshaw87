@@ -60,3 +60,5 @@ alt="amarshaw87" /> </p>
 <a href="https://fb.com/amarshaw87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amarshaw.amarshaw.923" height="30" width="40" /></a>
 <a href="https://instagram.com/amarshaw87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amarshaw87" height="30" width="40" /></a>
 </p>
+
+📧 **Email:** amarshaw87@gmail.com
