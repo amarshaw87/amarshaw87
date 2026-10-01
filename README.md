@@ -1,4 +1,5 @@
-# Hi there! I'm Amår Shāw 👋 [![](https://komarev.com/ghpvc/?username=amarshaw87&icon=0&color=1)](https://visitcount.itsvg.in)
+                                                                                                 # Hi there! I'm Amår Shāw 👋 
+                                                                      [![](https://komarev.com/ghpvc/?username=amarshaw87&icon=0&color=1)](https://visitcount.itsvg.in)
 
 **I am a Front-End Developer and US Healthcare Domain Expert** with 4 years of deep operational experience across **Prior Authorization, Accounts Receivable (AR), Insurance Verification, Eligibility, and Patient Intake**. 
 
