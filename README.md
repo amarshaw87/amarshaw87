@@ -1,5 +1,32 @@
 # Hi there! I'm Amår Shāw 👋 [![](https://komarev.com/ghpvc/?username=amarshaw87&icon=0&color=1)](https://visitcount.itsvg.in)
 
+##################*****####################     **I am a Front-End Developer and US Healthcare Domain Expert** with 4
+#############*++-=--------=*###############      years of deep operational experience across **Prior Authorization,
+############====----::-:::::-*#############      Accounts Receivable (AR), Insurance Verification, Eligibility, and
+###########+=-:::::::::--::::-+############      Patient Intake**.
+##########==:----=+**#*+=:::::-###########*
+##########=---+#%%%%%%%##*+-:::*##########*      I bridge the gap between complex medical billing workflows and high-
+##########=:-=%%%%%%%%%##**+:::*##########*      performance Web applications, leveraging modern frontend technologies 
+##########*--=%%%%%%%%%%#***+::*##########*      to automate, and scale healthcare revenue cycles.
+###########=-=%%#*==##*=--=+*=+###########*
+#############*%#*+==#%#=++***++############      ---
+############%##%%%%%%%#*####*+*############
+#############%#%%%%#%%#+****+=#############      ### 🚀 Featured Live Application
+################%%%##==--:==+=#############
+###############*##*=##+=+=----***##########      * **[AR Caller Pro (Live App)](https://github.io)**: An interactive 
+################==--*%#*+-::=----:-----====
+################++----:-::-++--------======
+#############*+++++#=::::=++=:-------======
+###########+++==+++=##*++===-:-------======
+########++++++==++++==*++++=-------========
+#####+++++++++==++++++=######+======-======
+###*++++++++++=====+++++#%%%#*==========---
+###*+++++++++++=+++++++=+#%%%*=========----
+###*+++++++++++++=++++++=+####=====-===----
+###*+++==++===+++++++++===+*##+====-===----
+###*+=+==-=======+++=+======*#=====--------
+
+
 **I am a Front-End Developer and US Healthcare Domain Expert** with 4 years of deep operational experience across **Prior Authorization, Accounts Receivable (AR), Insurance Verification, Eligibility, and Patient Intake**. 
 
 I bridge the gap between complex medical billing workflows and high-performance web applications, leveraging modern frontend technologies to automate, streamline, and scale healthcare revenue cycles.
@@ -11,7 +38,7 @@ I bridge the gap between complex medical billing workflows and high-performance 
 
 ### 🚀 Featured Live Application
 
-* **[AR Caller Pro (Live App)](https://github.io)**: An interactive Accounts Receivable (AR) call simulator and learning platform purpose-built for training and optimizing Revenue Cycle Management (RCM) workflows.
+* **[AR Caller Pro (Live App)](https://github.io)**: An interactive learning platform purpose-built for training and optimizing Revenue Cycle Management (RCM) workflows.
 
 ---
 
