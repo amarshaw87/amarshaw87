@@ -1,31 +1,31 @@
 # Hi there! I'm Amår Shāw 👋 [![](https://komarev.com/ghpvc/?username=amarshaw87&icon=0&color=blue)](https://visitcount.itsvg.in)
 
 ```text
-##################*****####################               **I am a Front-End Developer and US Healthcare Domain Expert** with 4 years 
-#############*++-=--------=*###############                 of deep operational experience across **Prior Authorization, Accounts 
-############====----::-:::::-*#############                 Receivable (AR), Insurance Verification, Eligibility, and Patient Intake**.
+##################*****####################         **I am a Front-End Developer and US Healthcare Domain Expert** with 4 years 
+#############*++-=--------=*###############           of deep operational experience across **Prior Authorization, Accounts 
+############====----::-:::::-*#############           Receivable (AR), Insurance Verification, Eligibility, and Patient Intake**.
 ###########+=-:::::::::--::::-+############                 
-##########==:----=+**#*+=:::::-###########*                 I bridge the gap between complex medical billing workflows and high-performance
-##########=---+#%%%%%%%##*+-:::*##########*                 web applications, leveraging modern frontend technologies to automate, 
-##########=:-=%%%%%%%%%##**+:::*##########*                 streamline, and scale healthcare revenue cycles.
+##########==:----=+**#*+=:::::-###########*           I bridge the gap between complex medical billing workflows and high-performance
+##########=---+#%%%%%%%##*+-:::*##########*           web applications, leveraging modern frontend technologies to automate, 
+##########=:-=%%%%%%%%%##**+:::*##########*           streamline, and scale healthcare revenue cycles.
 ##########*--=%%%%%%%%%%#***+::*##########*      
-###########=-=%%#*==##*=--=+*=+###########*                 ---
+###########=-=%%#*==##*=--=+*=+###########*           ---
 #############*%#*+==#%#=++***++############      
-############%##%%%%%%%#*####*+*############                 ### 🚀 Featured Live Application
+############%##%%%%%%%#*####*+*############           ### 🚀 Featured Live Application
 #############%#%%%%#%%#+****+=#############      
-################%%%##==--:==+=#############                 * **[AR Caller Pro (Live App)](https://github.io)**: An interactive learning 
-###############*##*=##+=+=----***##########                  platform purpose-built for training and optimizing Revenue Cycle Management 
-################==--*%#*+-::=----:-----====                  (RCM) workflows.
+################%%%##==--:==+=#############           * **[AR Caller Pro (Live App)](https://github.io)**: An interactive learning 
+###############*##*=##+=+=----***##########            platform purpose-built for training and optimizing Revenue Cycle Management 
+################==--*%#*+-::=----:-----====            (RCM) workflows.
 ################++----:-::-++--------======
-#############*+++++#=::::=++=:-------======                  ---
+#############*+++++#=::::=++=:-------======            ---
 ###########+++==+++=##*++===-:-------======
-########++++++==++++==*++++=-------========                  ### 🏥 Healthcare Domain Mastery
+########++++++==++++==*++++=-------========            ### 🏥 Healthcare Domain Mastery
 #####+++++++++==++++++=######+======-======
-###*++++++++++=====+++++#%%%#*==========---                  * **Core Specialties:** Prior Authorization, AR Follow-up, Patient Intake, 
-###*+++++++++++=+++++++=+#%%%*=========----                   Eligibility & Benefits Verification.
-###*+++++++++++++=++++++=+####=====-===----                  * **EHR/EMR & Billing Systems:** Expert-level workflow competency in 
-###*+++==++===+++++++++===+*##+====-===----                   **eClinicalWorks (eCW)** and **Brightree**
-###*+=+==-=======+++=+======*#=====--------                  * **Framework Familiarity:** Revenue Cycle Management (RCM) logic, denial
+###*++++++++++=====+++++#%%%#*==========---            * **Core Specialties:** Prior Authorization, AR Follow-up, Patient Intake, 
+###*+++++++++++=+++++++=+#%%%*=========----             Eligibility & Benefits Verification.
+###*+++++++++++++=++++++=+####=====-===----             * **EHR/EMR & Billing Systems:** Expert-level workflow competency in 
+###*+++==++===+++++++++===+*##+====-===----             **eClinicalWorks (eCW)** and **Brightree**
+###*+=+==-=======+++=+======*#=====--------             * **Framework Familiarity:** Revenue Cycle Management (RCM) logic, denial
 ```                                                           
 
 
