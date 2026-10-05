@@ -8,7 +8,7 @@
 ##########==:----=+**#*+=:::::-###########*    I bridge the gap between complex medical billing workflows and high-performance
 ##########=---+#%%%%%%%##*+-:::*##########*    web applications, leveraging modern frontend technologies to automate, 
 ##########=:-=%%%%%%%%%##**+:::*##########*    streamline, and scale healthcare revenue cycles.
-##########*--=%%%%%%%%%%#***+::*##########*      
+##########*--=%%%%%%%%%%#***+::*##########*    
 ###########=-=%%#*==##*=--=+*=+###########*    ---
 #############*%#*+==#%#=++***++############      
 ############%##%%%%%%%#*####*+*############    ### 🚀 Featured Live Application
@@ -26,7 +26,8 @@
 ###*+++++++++++++=++++++=+####=====-===----    * **EHR/EMR & Billing Systems:** Expert-level workflow competency in 
 ###*+++==++===+++++++++===+*##+====-===----    **eClinicalWorks (eCW)** and **Brightree**
 ###*+=+==-=======+++=+======*#=====--------    * **Framework Familiarity:** Revenue Cycle Management (RCM) logic, denial
-```                                                           
+                                               and clearinghouse integrations.
+```              
 
 
 **I am a Front-End Developer and US Healthcare Domain Expert** with 4 years of deep operational experience across **Prior Authorization, Accounts Receivable (AR), Insurance Verification, Eligibility, and Patient Intake**. 
