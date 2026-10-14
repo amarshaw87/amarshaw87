@@ -41,7 +41,7 @@
 
 * **[Ar-Caller-Pro](https://github.com)**: Repository containing the source code for the interactive RCM call simulation portal. *(JavaScript)*
 * **[prior-auth-engine](https://github.com)**: A public utility engine aimed at structuring and automating healthcare insurance pre-authorizations. *(JavaScript)*
-* **[healthcare-claims-automation](https://github.com)**: A processing script designed to clean, parse, and filter dense US healthcare billing codes. *(Python)*
+* **[remit-x-matrix](https://github.com)**: A client-side EDI 835 Electronic Remittance Advice sandbox decoder for US healthcare RCM pipelines. *(Vue 3, TypeScript)*
 
 ---
 
