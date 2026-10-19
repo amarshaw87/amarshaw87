@@ -1,5 +1,5 @@
-# Hi there! I'm Amår Shāw 👋
-[![](https://komarev.com/ghpvc/?username=amarshaw87&icon=0&color=blue)](https://visitcount.itsvg.in)
+# Hi there! I'm Amår Shāw 👋 ![](https://komarev.com/ghpvc/?username=amarshaw87&icon=0&color=blue)](https://visitcount.itsvg.in)
+
 
 
 
