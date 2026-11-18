@@ -24,11 +24,11 @@ I am a **Full-Stack & Front-End Developer** and **US Healthcare Revenue Cycle Ma
 
 ### 📂 Featured Production & Open Source Projects
 
-* **[amar-rcm-to-fullstack](https://github.com)** *(Live: [amar-rcm-to-fullstack.vercel.app](https://vercel.app))* — Executive interactive pitch-deck and portfolio built with **Vue 3, TypeScript, Vite, and Tailwind CSS**, featuring an HTML5 Canvas starfield engine, Hooke's Law physics, and a live RCM ROI simulator.
-* **[CrosswalkIQ (Production Deployment)](https://vercel.app)** — Zero-latency medical coding verification and anesthesia crosswalk engine deployed in live production at **RCM Workshop**, used daily by **30+ billing specialists** to resolve multi-level spinal anatomy codes and Humana MAC overrides.
-* **[Ar-Caller-Pro](https://github.com)** — Interactive Accounts Receivable (AR) call simulation portal and dynamic IVR/CARC/RARC workflow training engine. *(JavaScript)*
-* **[prior-auth-engine](https://github.com)** — Automated healthcare pre-authorization intake system compiling 15-field audit-ready clinical evidence packets to eliminate Timely Filing Limit (TFL) write-offs. *(JavaScript)*
-* **[remit-x-matrix](https://github.com)** — Privacy-first, client-side EDI 835 Electronic Remittance Advice sandbox decoder translating raw remittance streams into structured financial tables. *(Vue 3, TypeScript)*
+* **[amar-rcm-to-fullstack](https://github.com/amarshaw87/amar-rcm-to-fullstack)** *(Live: [amar-rcm-to-fullstack.vercel.app](https://amar-rcm-to-fullstack.vercel.app/))* — Executive interactive pitch-deck and portfolio built with **Vue 3, TypeScript, Vite, and Tailwind CSS**, featuring an HTML5 Canvas starfield engine, Hooke's Law physics, and a live RCM ROI simulator.
+* **[CrosswalkIQ (Production Deployment)](https://crosswalk-iq.vercel.app/)** — Zero-latency medical coding verification and anesthesia crosswalk engine deployed in live production at **RCM Workshop**, used daily by **30+ billing specialists** to resolve multi-level spinal anatomy codes and Humana MAC overrides.
+* **[Ar-Caller-Pro](https://github.com/amarshaw87/Ar-Caller-Pro)** — Interactive Accounts Receivable (AR) call simulation portal and dynamic IVR/CARC/RARC workflow training engine. *(JavaScript)*
+* **[prior-auth-engine](https://github.com/amarshaw87/prior-auth-engine)** — Automated healthcare pre-authorization intake system compiling 15-field audit-ready clinical evidence packets to eliminate Timely Filing Limit (TFL) write-offs. *(JavaScript)*
+* **[remit-x-matrix](https://github.com/amarshaw87/remit-x-matrix)** — Privacy-first, client-side EDI 835 Electronic Remittance Advice sandbox decoder translating raw remittance streams into structured financial tables. *(Vue 3, TypeScript)*
 
 ---
 
