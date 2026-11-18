@@ -2,7 +2,7 @@
 
 I am a **Full-Stack & Front-End Developer** and **US Healthcare Revenue Cycle Management (RCM) Domain Expert** with **5+ years of operational experience** across Prior Authorization, Accounts Receivable (AR), Insurance Verification, Eligibility, and Patient Intake. I bridge the gap between complex medical billing workflows and high-performance web applications—having built and deployed production healthcare tools actively used by **30+ RCM specialists** daily.
 
-🚀 **Interactive Pitch-Deck & Live Portfolio:** [amar-rcm-to-fullstack.vercel.app](https://vercel.app)
+🚀 **Interactive Pitch-Deck & Live Portfolio:** [amar-rcm-to-fullstack.vercel.app](https://amar-rcm-to-fullstack.vercel.app/)
 
 ---
 
