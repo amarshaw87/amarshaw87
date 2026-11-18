@@ -52,9 +52,5 @@ I am a **Full-Stack & Front-End Developer** and **US Healthcare Revenue Cycle Ma
 
 📫 **How to reach me:** [amarshaw87@gmail.com](mailto:amarshaw87@gmail.com)
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://vercel.app" target="_blank"><img align="center" src="https://shields.io" alt="Live Portfolio" height="30" /></a>
-  <a href="https://linkedin.com/in/amarshaw87" target="_blank"><img align="center" src="https://shields.io" alt="LinkedIn" height="30" /></a>
-  <a href="https://github.com/amarshaw87" target="_blank"><img align="center" src="https://shields.io" alt="GitHub" height="30" /></a>
+<p align="left"> <a href="https://www.github.com/amarshaw87" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/amarshaw87" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p> href="https://github.com/amarshaw87" target="_blank"><img align="center" src="https://shields.io" alt="GitHub" height="30" /></a>
 </p>
